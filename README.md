@@ -1,0 +1,2 @@
+# CIdemo
+CI example project
